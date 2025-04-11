@@ -5,8 +5,6 @@
 # SPDX-FileCopyrightText: 2020 John Park for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
-from adafruit_display_shapes.rect import Rect
-
 import time
 
 

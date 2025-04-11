@@ -2,3 +2,7 @@ secrets.py
 __pycache__
 .vscode
 lib
+.idea
+.venv
+.ruff_cache
+.orig
